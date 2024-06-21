@@ -1,6 +1,6 @@
 # Programação-para-a-Web-Client-Client-Side-
 Este repositório contém os arquivos das tarefas da UFCD - 9526 - Programação para Web Cliente (Client-Side)
-Tarefa 1
+##Tarefa 1
 Crie uma pasta com o nome: Sitecursos
 Procure uma imagem alusiva ao HTML (procure em repositórios que tenham em conta os direitos de autor) e guarde-a na pasta Site.
 Abra o editor de HTML e coloque os seguintes elementos num ficheiro novo:
